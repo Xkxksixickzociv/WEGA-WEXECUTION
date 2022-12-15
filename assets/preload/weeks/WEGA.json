@@ -1,0 +1,41 @@
+{
+	"storyName": "#wegahasfallen #wegaexecution",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "wega",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"wega",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"wexecuted",
+			"wega",
+			[
+				135,
+				0,
+				160
+			]
+		],
+		[
+			"retrobit",
+			"retromario",
+			[
+				215,
+				0,
+				35
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}
