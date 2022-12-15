@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="urio.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="urdown0000" x="10" y="10" width="1632" height="288" frameX="0" frameY="-411" frameWidth="1632" frameHeight="707"/>
+	<SubTexture name="urdown0001" x="1652" y="10" width="1283" height="694" frameX="-175" frameY="-13" frameWidth="1632" frameHeight="707"/>
+	<SubTexture name="urdown0002" x="10" y="714" width="1251" height="706" frameX="-191" frameY="-1" frameWidth="1632" frameHeight="707"/>
+	<SubTexture name="urdown0003" x="1271" y="714" width="1240" height="707" frameX="-196" frameY="0" frameWidth="1632" frameHeight="707"/>
+	<SubTexture name="urdown0004" x="2521" y="714" width="1228" height="707" frameX="-202" frameY="0" frameWidth="1632" frameHeight="707"/>
+	<SubTexture name="urdown0005" x="2521" y="714" width="1228" height="707" frameX="-202" frameY="0" frameWidth="1632" frameHeight="707"/>
+	<SubTexture name="uridle0000" x="10" y="1431" width="1270" height="688" frameX="0" frameY="-3" frameWidth="1276" frameHeight="693"/>
+	<SubTexture name="uridle0001" x="1290" y="1431" width="1270" height="688" frameX="-6" frameY="0" frameWidth="1276" frameHeight="693"/>
+	<SubTexture name="uridle0002" x="10" y="1431" width="1270" height="688" frameX="-1" frameY="-2" frameWidth="1276" frameHeight="693"/>
+	<SubTexture name="uridle0003" x="10" y="1431" width="1270" height="688" frameX="-6" frameY="-2" frameWidth="1276" frameHeight="693"/>
+	<SubTexture name="uridle0004" x="10" y="1431" width="1270" height="688" frameX="-2" frameY="-5" frameWidth="1276" frameHeight="693"/>
+	<SubTexture name="uridle0005" x="10" y="1431" width="1270" height="688" frameX="-5" frameY="-1" frameWidth="1276" frameHeight="693"/>
+	<SubTexture name="uridle0006" x="10" y="1431" width="1270" height="688" frameX="-2" frameY="-1" frameWidth="1276" frameHeight="693"/>
+	<SubTexture name="uridle0007" x="10" y="1431" width="1270" height="688" frameX="-5" frameY="-1" frameWidth="1276" frameHeight="693"/>
+	<SubTexture name="uridle0008" x="10" y="1431" width="1270" height="688" frameX="-1" frameY="-2" frameWidth="1276" frameHeight="693"/>
+	<SubTexture name="uridle0009" x="10" y="1431" width="1270" height="688" frameX="-2" frameY="-3" frameWidth="1276" frameHeight="693"/>
+	<SubTexture name="uridle0010" x="10" y="1431" width="1270" height="688" frameX="-4" frameY="-2" frameWidth="1276" frameHeight="693"/>
+	<SubTexture name="uridle0011" x="10" y="1431" width="1270" height="688" frameX="-3" frameY="-2" frameWidth="1276" frameHeight="693"/>
+	<SubTexture name="uridle0012" x="10" y="1431" width="1270" height="688" frameX="-3" frameY="-4" frameWidth="1276" frameHeight="693"/>
+	<SubTexture name="uridle0013" x="10" y="1431" width="1270" height="688" frameX="-3" frameY="-4" frameWidth="1276" frameHeight="693"/>
+	<SubTexture name="urleft0000" x="10" y="2129" width="1886" height="688"/>
+	<SubTexture name="urleft0001" x="1906" y="2129" width="1374" height="688" frameX="-256" frameY="0" frameWidth="1886" frameHeight="688"/>
+	<SubTexture name="urleft0002" x="10" y="2827" width="1290" height="688" frameX="-298" frameY="0" frameWidth="1886" frameHeight="688"/>
+	<SubTexture name="urleft0003" x="1310" y="2827" width="1274" height="688" frameX="-306" frameY="0" frameWidth="1886" frameHeight="688"/>
+	<SubTexture name="urleft0004" x="2594" y="2827" width="1270" height="688" frameX="-308" frameY="0" frameWidth="1886" frameHeight="688"/>
+	<SubTexture name="urleft0005" x="2594" y="2827" width="1270" height="688" frameX="-308" frameY="0" frameWidth="1886" frameHeight="688"/>
+	<SubTexture name="urleft0006" x="2594" y="2827" width="1270" height="688" frameX="-308" frameY="0" frameWidth="1886" frameHeight="688"/>
+	<SubTexture name="urright0000" x="10" y="3525" width="2000" height="686" frameX="0" frameY="-1" frameWidth="2000" frameHeight="687"/>
+	<SubTexture name="urright0001" x="2020" y="3525" width="1364" height="686" frameX="-12" frameY="-1" frameWidth="2000" frameHeight="687"/>
+	<SubTexture name="urright0002" x="10" y="4221" width="1281" height="686" frameX="-14" frameY="-1" frameWidth="2000" frameHeight="687"/>
+	<SubTexture name="urright0003" x="1301" y="4221" width="1267" height="686" frameX="-15" frameY="0" frameWidth="2000" frameHeight="687"/>
+	<SubTexture name="urright0004" x="2578" y="4221" width="1260" height="686" frameX="-15" frameY="0" frameWidth="2000" frameHeight="687"/>
+	<SubTexture name="urright0005" x="2578" y="4221" width="1260" height="686" frameX="-15" frameY="0" frameWidth="2000" frameHeight="687"/>
+	<SubTexture name="urright0006" x="2578" y="4221" width="1260" height="686" frameX="-15" frameY="0" frameWidth="2000" frameHeight="687"/>
+	<SubTexture name="urup0000" x="10" y="4917" width="543" height="1084" frameX="-305" frameY="0" frameWidth="1156" frameHeight="1084"/>
+	<SubTexture name="urup0001" x="563" y="4917" width="830" height="815" frameX="-162" frameY="-264" frameWidth="1156" frameHeight="1084"/>
+	<SubTexture name="urup0002" x="1403" y="4917" width="987" height="707" frameX="-84" frameY="-370" frameWidth="1156" frameHeight="1084"/>
+	<SubTexture name="urup0003" x="2400" y="4917" width="1107" height="658" frameX="-24" frameY="-418" frameWidth="1156" frameHeight="1084"/>
+	<SubTexture name="urup0004" x="10" y="6011" width="1142" height="653" frameX="-7" frameY="-423" frameWidth="1156" frameHeight="1084"/>
+	<SubTexture name="urup0005" x="1162" y="6011" width="1156" height="652" frameX="0" frameY="-424" frameWidth="1156" frameHeight="1084"/>
+	<SubTexture name="urup0006" x="1162" y="6011" width="1156" height="652" frameX="0" frameY="-424" frameWidth="1156" frameHeight="1084"/>
+	<SubTexture name="urup0007" x="1162" y="6011" width="1156" height="652" frameX="0" frameY="-424" frameWidth="1156" frameHeight="1084"/>
+</TextureAtlas>
