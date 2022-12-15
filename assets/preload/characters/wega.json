@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "wegidle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				954,
+				24
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "wegLEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				123,
+				-48
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "wegDOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-90,
+				318
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "wegUP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-91,
+				5
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "wegRIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				200,
+				240
+			],
+			"anim": "die",
+			"fps": 24,
+			"name": "wegDIE",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/LAST_WEGA_STORM",
+	"position": [
+		-330,
+		-330
+	],
+	"healthicon": "wega",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		-280,
+		-130
+	],
+	"sing_duration": 6.1,
+	"scale": 0.7
+}

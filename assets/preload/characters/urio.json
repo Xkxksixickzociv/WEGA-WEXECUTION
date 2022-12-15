@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "uridle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				213,
+				-5
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "urleft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				125,
+				12
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "urdown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-46,
+				270
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "urup",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				8,
+				-2
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "urright",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/urio",
+	"position": [
+		-500,
+		90
+	],
+	"healthicon": "urio",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		-20,
+		190
+	],
+	"sing_duration": 6.1,
+	"scale": 0.7
+}

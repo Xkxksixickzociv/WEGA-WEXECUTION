@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-140,
+				-70
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "idleboy"
+		},
+		{
+			"offsets": [
+				-120,
+				-70
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "leftboy"
+		},
+		{
+			"offsets": [
+				-130,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "downboy"
+		},
+		{
+			"offsets": [
+				-210,
+				45
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "upboy"
+		},
+		{
+			"offsets": [
+				-270,
+				-31
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "rightboy"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/retroboy",
+	"position": [
+		-10,
+		290
+	],
+	"healthicon": "retroboy",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		255,
+		0
+	],
+	"camera_position": [
+		-90,
+		50
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
