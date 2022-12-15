@@ -1,0 +1,11 @@
+{
+	"idle_anim": "wegidle",
+	"image": "menu_wega",
+	"position": [
+		270,
+		750
+	],
+	"flipX": false,
+	"scale": 0.4,
+	"confirm_anim": "M Dad Idle"
+}
